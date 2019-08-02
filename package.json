@@ -4,7 +4,8 @@
   "description": "A Slack bot that responds to Reddit username and subreddit mentions.",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node reddit-mentions/app.js"
   },
   "repository": {
     "type": "git",
